@@ -1,0 +1,3 @@
+rootProject.name='LibCalculateIntegers'
+include ':app'
+include ':myutils'
