@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int sum = (int) CalculateIntegers.division(80,40);
+        int sum = (int) CalculateIntegers.division(80, 40);
         Toast.makeText(this, String.valueOf(sum), Toast.LENGTH_SHORT).show();
 
     }
